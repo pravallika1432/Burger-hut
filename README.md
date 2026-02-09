@@ -1,3 +1,16 @@
-#Burger-hut
-An interactive website for a fictional burger restaurant, designed with HTML and CSS. The project showcases the menu, allows users to place orders, and includes a
-responsive design for a seamless experience across devices.
+📌 Burger-hut
+
+Description:
+
+🍔 Restaurant-themed frontend web application
+
+📋 Interactive food menu interface
+
+🎨 Clean UI with responsive design
+
+🛒 Simulates ordering experience
+
+✨ Focuses on UI/UX fundamentals
+
+🛠️ Tech Stack:
+🌐 HTML, 🎨 CSS, ⚙️ JavaScript
